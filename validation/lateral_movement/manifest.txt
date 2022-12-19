@@ -1,6 +1,2 @@
 coreLang_version=v1.0.0rc5
 coreLang_commit=4f5bbb40be24a25d928bfc2594efddb785a02e5f
-
-For tainted_shared_content.sCAD
-coreLang_version=v0.6.1
-coreLang_commit=UKNOWN
